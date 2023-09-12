@@ -25,3 +25,7 @@ This project contains 1 screen of the app created without storyboard.
 <td><img width="336" alt="Снимок экрана 2023-09-13 в 01 58 35" src="https://github.com/diaszait/iOS_UIScreens/assets/142406959/3cd4729a-6508-40a1-be59-937032161342">
  </tr>
 </table>
+
+git: @diaszait
+
+mail: diasabub@gmail.com
